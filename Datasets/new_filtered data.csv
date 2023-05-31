@@ -1,0 +1,216 @@
+,TCIA code,Sex,Age,Height (m),BMI start treat (kg/m2),Diag,Grade,HPV status,Induction Chemotherapy,Chemotherapy Regimen,Platinum-based chemotherapy,Received Concurrent Chemoradiotherapy?,CCRT Chemotherapy Regimen,Surgery Summary,Smoking History,Current Smoker,Stage,Alive or Dead,Response or Recurrence,Survival  (months),Total RT treatment time (days)
+0,HNSCC-01-0001,Female,54,1.685,19.61802957,CA soft palate,moderately to poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,0,0,IVA,Alive,Complete response,99.6,43
+1,HNSCC-01-0002,Female,56,1.66,21.2294963,NPC,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Dead,No,42.01643836,43
+2,HNSCC-01-0003,Male,48,1.78,29.60484787,CA tonsil,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Alive,Complete response,61.13333333,37
+3,HNSCC-01-0004,Male,65,1.75,24.78367347,CA tonsil,poorly diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,1,0,IVA,Dead,No,13.43333333,45
+4,HNSCC-01-0005,Male,66,1.67,33.63333214,CA tonsil,moderately diff.,unknown,No,No,No,No,No,No,2,1,III,Alive,No,110.2666667,43
+5,HNSCC-01-0006,Male,62,1.755,29.83742015,CUP,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,1,IVA,Dead,Complete response,118.9333333,41
+6,HNSCC-01-0007,Male,39,1.85,29.77355734,CA BOT,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Neck dissection,0,0,IVB,Alive,Complete response,116.4493151,47
+7,HNSCC-01-0008,Male,60,1.67,26.28276381,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,1,III,Alive,Complete response,105.5,40
+8,HNSCC-01-0009,Male,57,1.78,25.50183058,CA tonsil,moderately diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,1,IVA,Alive,Complete response,113.1333333,44
+9,HNSCC-01-0010,Male,63,1.725,19.96219282,CA tonsil,moderately to poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Dead,No,93.8630137,43
+10,HNSCC-01-0011,Male,70,1.803,17.34952746,CA larynx,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Neck dissection,0,0,III,Dead,Complete response,105.8666667,43
+11,HNSCC-01-0012,Male,51,1.87,29.74062741,CA BOT,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,103.8575342,45
+12,HNSCC-01-0013,Male,61,1.765,28.08785882,CA tonsil,poorly diff.,unknown,No,No,No,No,No,No,2,0,IVA,Alive,Complete response,8.933333333,45
+13,HNSCC-01-0014,Male,58,1.82,31.48774303,CA BOT,poorly diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,0,0,IVA,Alive,Complete response,86.03333333,40
+14,HNSCC-01-0015,Male,63,1.78,27.1430375,CA BOT,poorly diff.,negative,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,106.3232877,38
+15,HNSCC-01-0016,Male,54,1.83,28.27794201,CA tonsil,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,97.70958904,44
+16,HNSCC-01-0017,Male,53,1.77,29.04657027,CUP,well diff.,unknown,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,104.6136986,40
+17,HNSCC-01-0018,Female,24,1.651,49.30660749,NPC,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVA,Alive,Complete response,105.0082192,48
+18,HNSCC-01-0019,Male,61,1.736,23.59229332,CA tonsil,moderately to poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVB,Dead,Complete response,18.9,45
+19,HNSCC-01-0020,Male,60,1.715,26.7575585,CA BOT,moderately diff.,negative,Yes,No,No,No,No,No,2,1,IVA,Alive,No,100.1666667,40
+20,HNSCC-01-0021,Male,56,1.74,28.40533756,CA tonsil,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,103.430137,42
+21,HNSCC-01-0022,Male,64,1.665,25.34065597,CA tonsil,poorly diff.,unknown,No,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,Other Surgeries,2,0,IVA,Dead,Complete response,88.40547945,43
+22,HNSCC-01-0023,Male,62,1.7,30.24221453,CA BOT,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,93.6,42
+23,HNSCC-01-0024,Female,79,1.5,38.04444444,CA soft palate,poorly diff.,unknown,No,No,No,No,No,No,2,0,IVA,Alive,Complete response,99.56666667,37
+24,HNSCC-01-0025,Male,45,1.73,24.19058438,CA supraglottic,well diff.,unknown,No,No,No,No,No,No,0,0,III,Alive,Complete response,83.26666667,43
+25,HNSCC-01-0026,Male,59,1.78,25.2493372,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,86.76666667,45
+26,HNSCC-01-0027,Female,54,1.56,21.77843524,CA oral tongue,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVA,Dead,No,19.86666667,43
+27,HNSCC-01-0028,Male,53,1.77,30.00414951,CA pyriform sinus,moderately to poorly diff.,unknown,Yes,Cisplatin high does --> Carbo weekly,Platinum-based,Yes,Cisplatin x 1 cycle and cycle 2 switch to carboplatin,Other Surgeries,2,1,IVB,Dead,No,34.29041096,43
+28,HNSCC-01-0029,Male,59,1.73,30.60576698,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,1,0,III,Alive,Complete response,92.63333333,43
+29,HNSCC-01-0030,Male,63,1.7,33.75432526,CA BOT,well diff.,unknown,No,No,No,No,No,No,0,0,IVA,Dead,Complete response,97.56666667,43
+30,HNSCC-01-0031,Male,42,1.72,28.35992428,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,0,0,IVA,Alive,Complete response,100.109589,23
+31,HNSCC-01-0032,Female,70,1.7,29.34256055,CA tonsil,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVA,Alive,Complete response,83.46666667,43
+32,HNSCC-01-0033,Female,44,1.549,27.50686526,CA posteriot pharyngeal wall,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,0,IVA,Alive,Complete response,91.93333333,43
+33,HNSCC-01-0034,Male,48,1.71,27.66663247,CA retromolar trigone,poorly diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,No,0,0,IVA,Alive,Complete response,102.1666667,42
+34,HNSCC-01-0035,Male,48,1.8,24.9382716,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Dead,No,24.6,40
+35,HNSCC-01-0036,Male,66,1.64,24.72486615,CA buccal mucosa,poorly diff.,unknown,No,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,Other Surgeries,2,0,IVA,Dead,No,10.26666667,40
+36,HNSCC-01-0037,Male,52,1.76,33.76807851,CA larynx,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,1,0,IVA,Alive,No,98.5,45
+37,HNSCC-01-0038,Male,72,1.64,33.68530637,CA oropharynx,poorly diff.,unknown,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,60.16666667,43
+38,HNSCC-01-0039,Male,64,1.81,22.67940539,CA supraglottic,well diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,III,Dead,Complete response,79.66666667,47
+39,HNSCC-01-0040,Male,76,1.74,34.51578808,CA supraglottic,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,0,0,III,Dead,Complete response,80.0,49
+40,HNSCC-01-0041,Male,50,1.803,25.28601342,CA pyriform sinus,moderately diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,1,1,III,Dead,Complete response,36.13333333,44
+41,HNSCC-01-0042,Female,59,1.57,39.8393444,CA supraglottic,moderately to poorly diff.,unknown,Yes,Cisplatin high does --> Carbo weekly,Platinum-based,Yes,Cisplatin x 1 cycle and cycle 2 switch to carboplatin,Other Surgeries,2,1,III,Dead,Complete response,79.46666667,49
+42,HNSCC-01-0043,Male,57,1.575,27.61400857,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,1,0,IVA,Dead,No,21.83333333,41
+43,HNSCC-01-0044,Female,54,1.59,24.16834777,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,2,1,II,Alive,Complete response,91.4,39
+44,HNSCC-01-0045,Female,35,1.63,27.66381874,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,0,0,IVA,Alive,Complete response,77.46666667,37
+45,HNSCC-01-0046,Male,66,1.83,32.12995312,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVA,Dead,Complete response,58.03333333,40
+46,HNSCC-01-0047,Male,65,1.83,18.78228672,CA tonsil,well diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,III,Dead,Complete response,75.43333333,41
+47,HNSCC-01-0048,Male,57,1.83,29.56194571,CA tonsil,poorly diff.,unknown,No,Docetaxel,Non platinum-based,Yes,Docetaxel + Erlotinib,Other Surgeries,2,1,IVA,Alive,Complete response,91.73333333,46
+48,HNSCC-01-0049,Male,77,1.88,31.88660027,CA BOT,poorly diff.,unknown,No,Docetaxel,Non platinum-based,Yes,Docetaxel + Erlotinib,No,1,0,IVA,Alive,Complete response,85.76666667,40
+49,HNSCC-01-0050,Male,62,1.76,35.05940083,CA BOT,poorly diff.,positive,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin + Cetuximab,Other Surgeries,1,0,IVA,Alive,Complete response,78.1,36
+50,HNSCC-01-0051,Male,51,1.97,28.06050143,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,2,0,IVA,Alive,Complete response,86.73333333,40
+51,HNSCC-01-0052,Male,43,1.803,32.63802949,CA tonsil,well diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,No,2,1,IVA,Alive,Complete response,78.46666667,43
+52,HNSCC-01-0053,Male,54,1.67,34.6373122,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,2,1,IVA,Alive,Complete response,89.16666667,41
+53,HNSCC-01-0054,Male,50,1.76,28.40909091,CA BOT,poorly diff.,positive,No,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,No,2,0,IVB,Alive,Complete response,87.43333333,30
+54,HNSCC-01-0055,Female,54,1.505,37.04153376,CA tonsil,poorly diff.,unknown,No,No,No,No,No,No,2,0,II,Alive,Complete response,94.4,38
+55,HNSCC-01-0056,Male,67,1.757,27.30763263,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,2,1,IVA,Dead,Complete response,83.9,44
+56,HNSCC-01-0057,Male,62,1.68,26.2542517,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,II,Alive,Complete response,94.53333333,36
+57,HNSCC-01-0058,Male,61,1.85,27.34842951,CA BOT,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,0,IVA,Alive,No,95.2,43
+58,HNSCC-01-0059,Male,53,1.77,28.88697373,CA BOT,well diff.,unknown,No,No,No,No,No,No,0,0,IVA,Dead,No,73.0,41
+59,HNSCC-01-0060,Male,53,1.77,25.31201124,CA tonsil,well diff.,unknown,Yes,No,No,No,No,No,1,1,IVA,Alive,Complete response,89.7,43
+60,HNSCC-01-0061,Male,73,1.69,29.97093939,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,No,2,1,III,Dead,Complete response,48.36666667,40
+61,HNSCC-01-0062,Male,58,1.82,29.70655718,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,1,IVA,Alive,Complete response,94.0,43
+62,HNSCC-01-0063,Female,58,1.6,27.0703125,CA tonsil,poorly diff.,unknown,No,Cisplatin high does --> Carbo weekly,Platinum-based,Yes,Cisplatin high dose x 1 cycle and switch to carboplatin,No,0,0,IVA,Alive,Complete response,85.86666667,44
+63,HNSCC-01-0064,Male,53,1.78,30.04671127,CA BOT,poorly diff.,unknown,No,No,No,No,No,No,2,0,I,Dead,No,26.46666667,36
+64,HNSCC-01-0065,Female,51,1.75,19.39591837,recurrence CA retromolar trigone,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,I,Dead,No,34.6,42
+65,HNSCC-01-0066,Male,50,1.75,27.59183673,CA tonsil,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Alive,Complete response,94.2,43
+66,HNSCC-01-0067,Male,58,1.63,27.02397531,CA BOT,poorly diff.,negative,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,0,0,IVA,Dead,No,24.9,38
+67,HNSCC-01-0068,Male,55,1.88,32.59393391,CA BOT,poorly diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,90.6,46
+68,HNSCC-01-0069,Male,55,1.74,33.92125776,CA tonsil,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,86.03333333,41
+69,HNSCC-01-0070,Male,56,1.803,18.33389781,CA supraglottic,poorly diff.,unknown,No,No,No,No,No,No,2,0,IVA,Alive,Complete response,85.43333333,47
+70,HNSCC-01-0071,Male,50,1.73,23.5223362,CA BOT,poorly diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,0,0,IVA,Alive,Complete response,100.3666667,38
+71,HNSCC-01-0072,Male,46,1.638,25.45616099,CA BOT,poorly diff.,unknown,No,No,No,No,No,,2,0,III,Alive,No,87.73333333,40
+72,HNSCC-01-0073,Male,45,1.75,30.04081633,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,Other Surgeries,1,0,IVB,Alive,Complete response,79.46666667,41
+73,HNSCC-01-0074,Male,51,1.85,42.27903579,CA BOT,well diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,2,1,III,Alive,Complete response,80.03333333,40
+74,HNSCC-01-0075,Male,55,1.73,31.87543854,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,Other Surgeries,2,0,IVA,Alive,Complete response,84.1,43
+75,HNSCC-01-0076,Male,53,1.854,22.7212162,CA tonsil,poorly diff.,unknown,No,No,No,No,No,No,2,1,III,Alive,Complete response,77.1,36
+76,HNSCC-01-0077,Male,68,1.828,24.38963079,CA BOT,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,1,IVA,Alive,Complete response,92.86666667,42
+77,HNSCC-01-0078,Female,74,1.63,34.1375287,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,III,Alive,Complete response,92.3,37
+78,HNSCC-01-0079,Male,66,1.64,20.91389054,CA BOT,well diff.,negative,No,No,No,No,No,No,2,0,III,Dead,No,8.966666667,40
+79,HNSCC-01-0080,Male,65,1.8,26.08024691,CA pyriform sinus,Well to moderately diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,1,III,Dead,No,11.66666667,42
+80,HNSCC-01-0081,Male,54,1.65,31.58861341,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,Other Surgeries,1,0,IVA,Alive,Complete response,93.23333333,42
+81,HNSCC-01-0082,Male,50,1.62,38.48498704,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,1,III,Alive,Complete response,92.16666667,43
+82,HNSCC-01-0083,Male,34,1.778,33.75210832,CA tonsil,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVB,Alive,Complete response,83.27671233,40
+83,HNSCC-01-0084,Male,50,1.88,27.81235853,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,1,0,IVA,Alive,Complete response,10.6,43
+84,HNSCC-01-0085,Male,57,1.7,33.94463668,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,0,IVA,Alive,Complete response,81.43333333,42
+85,HNSCC-01-0086,Male,55,1.88,24.78497057,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Dead,No,10.83333333,46
+86,HNSCC-01-0087,Male,58,1.854,25.89229503,CA BOT,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,85.13333333,37
+87,HNSCC-01-0088,Male,51,1.9,27.45152355,CA BOT,poorly diff.,unknown,No,No,No,No,No,No,2,1,IVA,Alive,Complete response,66.9,42
+88,HNSCC-01-0089,Female,61,1.524,29.79450403,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Alive,Complete response,81.76666667,37
+89,HNSCC-01-0090,Male,42,1.69,27.94019817,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,0,III,Alive,Complete response,82.66666667,41
+90,HNSCC-01-0091,Male,66,1.75,30.04081633,CA BOT,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,1,0,IVA,Alive,Complete response,88.43333333,36
+91,HNSCC-01-0092,Male,58,1.725,25.40642722,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,1,II,Dead,No,57.96666667,40
+92,HNSCC-01-0093,Male,65,1.765,21.81222865,CA tonsil,moderately diff.,unknown,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,79.26666667,42
+93,HNSCC-01-0094,Male,69,1.829,20.32738448,CA supraglottic,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVA,Dead,Complete response,55.86666667,44
+94,HNSCC-01-0095,Male,49,1.81,28.78422515,CA tonsil,poorly diff.,unknown,No,No,No,No,No,No,2,1,IVA,Alive,Complete response,82.5,43
+95,HNSCC-01-0096,Male,62,1.72,30.7598702,CA BOT,moderately diff.,unknown,,No,No,No,No,Other Surgeries,2,1,IVA,Alive,Complete response,88.73333333,40
+96,HNSCC-01-0097,Male,68,1.829,27.86047403,CA tonsil,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Dead,Complete response,86.83333333,39
+97,HNSCC-01-0098,Male,56,1.71,37.00283848,CA tonsil,moderately diff.,positive,Yes,No,No,No,No,No,1,0,IVA,Alive,Complete response,85.23333333,43
+98,HNSCC-01-0099,Male,69,1.71,32.59122465,CA BOT,moderately diff.,unknown,No,Carboplatin + Taxol,Platinum-based,Yes,Carboplatin + Taxol,No,2,1,IVA,Alive,Complete response,89.93333333,46
+99,HNSCC-01-0100,Male,77,1.72,29.27257977,CA tonsil,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVA,Dead,No,34.06666667,42
+100,HNSCC-01-0101,Male,48,1.67,33.74090143,CA supraglottic,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,0,0,III,Alive,Complete response,6.333333333,43
+101,HNSCC-01-0102,Male,46,1.854,33.10722669,CA supraglottic,poorly diff.,unknown,Yes,No,No,No,No,No,1,0,IVA,Dead,No,62.63333333,43
+102,HNSCC-01-0103,Male,67,1.879,26.85064837,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,1,IVA,Alive,Complete response,38.16666667,39
+103,HNSCC-01-0104,Male,51,1.8,26.69753086,CA BOT,undiff.,negative,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,84.4,41
+104,HNSCC-01-0105,Male,43,1.76,30.26536674,CA tonsil,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVB,Dead,Complete response,13.16666667,46
+105,HNSCC-01-0106,Male,47,1.79,24.71832964,CA tonsil,poorly diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,87.56666667,43
+106,HNSCC-01-0107,Male,46,1.854,30.60527458,CA tonsil,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,81.73333333,41
+107,HNSCC-01-0108,Female,64,1.739,27.36332309,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,1,IVA,Alive,Complete response,77.46666667,41
+108,HNSCC-01-0109,Male,66,1.72,29.37398594,CA tonsil,moderately diff.,unknown,No,No,No,No,No,No,2,1,IVA,Dead,Complete response,52.26666667,47
+109,HNSCC-01-0110,Female,66,1.585,21.05703112,CA BOT,poorly diff.,negative,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,No,0,0,IVA,Alive,Complete response,87.06666667,45
+110,HNSCC-01-0111,Male,35,1.879,23.62177293,CA BOT,moderately to poorly diff.,unknown,No,,Platinum-based,Yes,Cisplatin weekly,No,2,0,IVA,Alive,Complete response,86.46666667,23
+111,HNSCC-01-0112,Female,50,1.68,26.07709751,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,0,0,IVA,Alive,Complete response,81.16666667,43
+112,HNSCC-01-0113,Male,53,1.79,28.30748104,CA BOT,moderately diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Dead,No,66.56666667,44
+113,HNSCC-01-0114,Male,60,2.057,23.0192078,CA BOT,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Dead,Complete response,33.23333333,43
+114,HNSCC-01-0115,Male,66,1.702,27.99637117,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Dead,Complete response,57.26666667,40
+115,HNSCC-01-0116,Male,50,1.7,26.816609,CA BOT,well diff.,positive,No,No,No,No,No,No,2,0,IVA,Dead,No,75.4,44
+116,HNSCC-01-0117,Female,44,1.714,21.07021726,CA tonsil,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,86.63333333,43
+117,HNSCC-01-0118,Male,54,1.77,26.97181525,CA tonsil,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Alive,Complete response,85.43333333,37
+118,HNSCC-01-0119,Male,68,1.68,26.32511338,CA maxillary sinus,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Alive,No,19.9,40
+119,HNSCC-01-0120,Male,51,1.77,33.67486993,CA BOT,moderately diff.,unknown,No,No,No,No,No,No,2,0,IVA,Dead,No,9.866666667,40
+120,HNSCC-01-0121,Male,54,1.79,38.63799507,CA BOT,moderately diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,62.16666667,43
+121,HNSCC-01-0122,Female,61,1.74,27.08415907,NPC,moderately diff.,unknown,Yes,No,No,No,No,No,0,0,IVB,Alive,No,23.66666667,43
+122,HNSCC-01-0123,Female,56,1.676,18.56548436,NPC,moderately diff.,unknown,Yes,No,No,No,No,Other Surgeries,1,0,IVA,Dead,No,8.1,35
+123,HNSCC-01-0124,Female,41,1.695,23.25075487,CA tonsil,moderately diff.,positive,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,63.53333333,48
+124,HNSCC-01-0125,Female,61,1.65,38.53076217,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,0,IVA,Alive,Complete response,82.86666667,47
+125,HNSCC-01-0126,Male,55,1.82,23.48750151,CA BOT,poorly diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin AUC 2 weekly,No,2,0,IVA,Alive,Complete response,76.56666667,43
+126,HNSCC-01-0127,Male,74,1.75,23.15102041,CA BOT,poorly diff.,unknown,No,Carboplatin + Taxol,Platinum-based,Yes,Carboplatin + Taxol,No,2,0,IVA,Alive,Complete response,77.93333333,38
+127,HNSCC-01-0128,Male,54,1.75,34.48163265,CA BOT,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,0,0,III,Alive,Complete response,82.4,44
+128,HNSCC-01-0129,Male,60,1.77,37.31367104,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,79.53333333,38
+129,HNSCC-01-0130,Male,29,1.63,28.11547292,NPC,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Dead,No,40.8,43
+130,HNSCC-01-0131,Male,54,1.7,24.80968858,CA BOT,well diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,1,0,IVA,Alive,Complete response,76.8,41
+131,HNSCC-01-0132,Male,62,1.7,36.0899654,CA tonsil,poorly diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,0,0,IVB,Alive,Complete response,72.23333333,43
+132,HNSCC-01-0133,Male,64,1.78,26.13306401,CA BOT,poorly diff.,positive,No,No,No,No,No,Other Surgeries,2,1,IVA,Alive,Complete response,82.8,37
+133,HNSCC-01-0134,Male,75,1.78,31.65635652,CA BOT,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,1,IVA,Alive,No,81.9,40
+134,HNSCC-01-0135,Male,53,1.685,39.48260529,CA tonsil,moderately diff.,unknown,Yes,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,74.6,37
+135,HNSCC-01-0136,Male,54,1.815,34.66672738,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,No,2,0,IVA,Alive,Complete response,76.53333333,40
+136,HNSCC-01-0137,Female,53,1.62,44.50541076,CA tonsil,well diff.,positive,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,0,0,III,Alive,Complete response,67.83333333,40
+137,HNSCC-01-0138,Male,46,1.75,25.89387755,CA tonsil,moderately diff.,negative,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVA,Alive,Complete response,80.7,24
+138,HNSCC-01-0139,Male,45,1.775,23.36044436,CA BOT,undiff.,positive,No,Carboplatin + Taxol,Platinum-based,Yes,Carboplatin + Taxol,No,2,0,IVA,Alive,Complete response,63.96666667,37
+139,HNSCC-01-0140,Male,44,1.67,24.56165513,CA BOT,undiff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,0,IVA,Dead,No,15.2,40
+140,HNSCC-01-0141,Male,54,1.8,36.41975309,CA BOT,poorly diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Alive,Complete response,77.9,40
+141,HNSCC-01-0142,Male,73,1.73,23.25503692,CA BOT,moderately diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,2,1,IVB,Dead,Complete response,42.53333333,48
+142,HNSCC-01-0143,Male,50,1.835,35.19218347,CA BOT,Well to moderately diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,0,IVA,Alive,Complete response,78.33333333,46
+143,HNSCC-01-0144,Female,50,1.585,18.46968325,CA tonsil,poorly diff.,positive,Yes,No,No,No,No,No,1,0,III,Alive,No,75.9,42
+144,HNSCC-01-0145,Male,56,1.71,27.22205123,CA BOT,poorly diff.,unknown,No,No,No,No,No,No,1,0,IVA,Alive,Complete response,62.6,40
+145,HNSCC-01-0146,Male,55,1.85,29.34989043,CA BOT,moderately diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,0,III,Alive,No,67.56666667,42
+146,HNSCC-01-0147,Male,72,1.75,29.3877551,CA BOT,poorly diff.,negative,Yes,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,76.63333333,47
+147,HNSCC-01-0148,Male,52,1.76,31.28228306,CA tonsil,moderately diff.,negative,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Alive,Complete response,77.53333333,45
+148,HNSCC-01-0149,Male,50,1.854,23.09941827,CA BOT,poorly diff.,positive,No,No,No,No,No,No,0,0,IVA,Alive,Complete response,77.19452055,51
+149,HNSCC-01-0150,Male,59,1.727,29.15311134,CA tonsil,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVB,Dead,Complete response,27.93333333,43
+150,HNSCC-01-0151,Male,47,1.77,41.65469693,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,1,1,IVA,Alive,Complete response,74.86666667,34
+151,HNSCC-01-0152,Male,48,1.855,31.12444693,CA BOT,poorly diff.,negative,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,0,0,IVA,Dead,No,12.63333333,42
+152,HNSCC-01-0153,Male,58,1.78,22.75596516,CA larynx,poorly diff.,unknown,No,No,No,No,No,No,0,0,IVA,Dead,No,15.9,41
+153,HNSCC-01-0154,Male,64,1.85,28.34185537,CA tonsil,poorly diff.,positive,No,No,No,No,No,No,2,0,IVA,Alive,Complete response,71.06666667,36
+154,HNSCC-01-0155,Male,50,1.816,26.88110093,CA pyriform sinus,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,0,0,IVA,Dead,No,25.46666667,38
+155,HNSCC-01-0156,Female,57,1.54,22.76943835,CA alveolar ridge,poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,2,0,IVA,Dead,No,72.36666667,37
+156,HNSCC-01-0157,Female,61,1.53,23.83698577,CA supraglottic,moderately to poorly diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Dead,No,13.7,44
+157,HNSCC-01-0158,Male,63,1.65,38.56749311,CA tonsil,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVB,Dead,No,66.54246575,43
+158,HNSCC-01-0159,Female,71,1.67,22.51783857,CA larynx,moderately to poorly diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,1,0,IVA,Dead,No,20.26666667,40
+159,HNSCC-01-0160,Male,60,1.68,31.74603175,CA BOT,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,No,2,1,IVB,Dead,No,22.7,44
+160,HNSCC-01-0161,Male,66,1.81,19.47437502,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,1,IVA,Dead,No,12.75616438,38
+161,HNSCC-01-0162,Male,66,1.702,35.69451023,CA supraglottic,moderately diff.,unknown,Yes,No,No,No,No,No,0,0,III,Alive,Complete response,66.13333333,43
+162,HNSCC-01-0163,Male,56,1.7,23.63321799,CA pyriform sinus,poorly diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,1,IVA,Dead,No,10.46666667,45
+163,HNSCC-01-0164,Male,73,1.69,35.43293302,CUP,moderately diff.,unknown,No,No,No,No,No,Other Surgeries,1,0,IVA,Alive,Complete response,58.2,30
+164,HNSCC-01-0165,Male,58,1.667,37.60495651,CA larynx,poorly diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Alive,Complete response,64.0,43
+165,HNSCC-01-0166,Male,67,1.77,23.23725622,CA BOT,moderately diff.,negative,Yes,No,No,No,No,No,2,1,IVA,Alive,Complete response,66.76666667,38
+166,HNSCC-01-0167,Female,54,1.574,32.57347397,CA supraglottic,moderately diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,51.33333333,43
+167,HNSCC-01-0168,Male,63,1.785,18.51721081,CA pharyngeal,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,1,0,III,Dead,No,11.4,40
+168,HNSCC-01-0169,Male,70,1.65,23.74655647,CA hypopharynx,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVA,Dead,No,18.86666667,43
+169,HNSCC-01-0170,Male,62,1.78,29.19454614,CA soft palate,poorly diff.,positive,No,No,No,No,No,No,0,0,IVA,Dead,No,13.1,43
+170,HNSCC-01-0171,Female,48,1.46,23.26890599,CA oral tongue,poorly diff.,negative,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,0,III,Dead,No,18.03333333,36
+171,HNSCC-01-0172,Male,45,1.725,30.64902331,CA BOT,well diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,0,0,IVB,Alive,Complete response,70.26666667,43
+172,HNSCC-01-0173,Male,67,1.674,26.69258845,CA pyriform sinus,moderately diff.,unknown,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles then carboplatin AUC 2 x 1 cycle,No,1,0,III,Alive,Complete response,56.36666667,47
+173,HNSCC-01-0174,Male,81,1.61,22.52999498,CA pyriform sinus,moderately to poorly diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,1,IVB,Dead,No,15.16666667,41
+174,HNSCC-01-0175,Male,61,1.63,26.15830479,CA oral tongue,moderately to poorly diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,Other Surgeries,2,0,I,Dead,No,16.03333333,42
+175,HNSCC-01-0176,Male,52,1.73,28.46737278,CA BOT,moderately diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,1,IVB,Dead,No,35.93333333,44
+176,HNSCC-01-0177,Male,56,1.85,25.56610665,CA pyriform sinus,Well to moderately diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose,Other Surgeries,0,0,IVA,Dead,No,56.73333333,44
+177,HNSCC-01-0178,Male,51,1.67,26.78475385,CUP,moderately diff.,unknown,Yes,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 3 cycles,Other Surgeries,2,1,IVA,Alive,No,56.13333333,40
+178,HNSCC-01-0179,Male,67,1.682,31.95335376,CA BOT,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,II,Dead,No,54.56666667,38
+179,HNSCC-01-0180,Male,50,1.78,27.23772251,CA BOT,moderately diff.,positive,No,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,Other Surgeries,0,0,IVA,Alive,Complete response,50.5,43
+180,HNSCC-01-0181,Male,62,1.77,24.3863513,CA maxillary sinus,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVB,Dead,No,32.48219178,44
+181,HNSCC-01-0182,Male,53,1.78,24.83903548,CA BOT,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,1,IVA,Alive,Complete response,52.96666667,41
+182,HNSCC-01-0183,Male,46,1.7,33.52941176,CA oral tongue,poorly diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,1,III,Alive,No,47.4,38
+183,HNSCC-01-0184,Male,54,1.82,22.61200338,CA tonsil,moderately diff.,positive,Yes,No,No,No,No,No,0,0,IVA,Alive,No,59.34246575,41
+184,HNSCC-01-0185,Male,45,1.78,28.34238101,CA BOT,moderately diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,0,IVA,Alive,Complete response,51.46666667,43
+185,HNSCC-01-0186,Male,64,1.689,25.34422399,CA BOT,poorly diff.,positive,No,Cisplatin q 3 weeks,Platinum-based,Yes,Cisplatin high dose x 2 cycles,No,2,0,IVA,Alive,Complete response,51.56666667,37
+186,HNSCC-01-0187,Male,68,1.71,18.21757122,CA supraglottic,poorly diff.,unknown,Yes,Carboplatin + Taxol,Platinum-based,Yes,Carboplatin + Taxol,No,2,1,IVB,Alive,No,56.61369863,43
+187,HNSCC-01-0188,Male,51,1.66,32.11641748,CA tonsil,well diff.,positive,Yes,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,57.33333333,42
+188,HNSCC-01-0189,Female,70,1.56,21.36752137,CA tonsil,poorly diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,1,IVA,Alive,Complete response,56.7,44
+189,HNSCC-01-0190,Male,44,1.67,34.81659436,CA oral tongue,moderately to poorly diff.,unknown,Yes,No,No,No,No,Other Surgeries,2,0,IVA,Alive,Complete response,41.06666667,27
+190,HNSCC-01-0191,Male,53,1.81,27.45032203,CA tonsil,moderately diff.,positive,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVA,Dead,No,53.7,43
+191,HNSCC-01-0192,Male,62,1.665,28.10017224,CA tonsil,poorly diff.,positive,No,No,No,No,No,No,2,0,I,Dead,Complete response,45.93333333,37
+192,HNSCC-01-0193,Male,51,1.86,23.64435195,CA oral tongue,moderately diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,0,0,IVA,Alive,Complete response,49.63333333,37
+193,HNSCC-01-0194,Male,63,1.71,32.18084197,CUP,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,0,IVA,Dead,No,44.73333333,40
+194,HNSCC-01-0195,Male,38,1.73,35.41715393,CUP,poorly diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Alive,Complete response,53.46666667,43
+195,HNSCC-01-0196,Male,49,1.79,40.60422584,CA glossopharyngeal sulcus,poorly diff.,positive,No,No,No,No,No,Other Surgeries,0,0,IVA,Alive,Complete response,44.33333333,37
+196,HNSCC-01-0197,Male,58,1.845,33.78353567,CA tonsil,poorly diff.,unknown,No,No,No,No,No,Other Surgeries,0,0,III,Alive,Complete response,44.46666667,37
+197,HNSCC-01-0198,Male,49,1.71,24.41776957,CA tonsil,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,0,0,IVB,Dead,No,29.26666667,43
+198,HNSCC-01-0199,Male,47,1.68,23.73866213,CA maxillary sinus,well diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Dead,No,21.73333333,43
+199,HNSCC-01-0200,Male,55,1.71,21.47669368,CA tonsil,poorly diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,0,0,IVA,Alive,Complete response,49.03333333,43
+200,HNSCC-01-0201,Male,63,1.81,34.00384604,NPC,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,III,Dead,No,12.33333333,43
+201,HNSCC-01-0202,Male,57,1.65,24.79338843,CA glossopharyngeal sulcus,poorly diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,0,IVA,Alive,No,52.43333333,43
+202,HNSCC-01-0203,Male,71,1.74,31.80737218,CA supraglottic,poorly diff.,negative,Yes,No,No,No,No,No,2,1,IVA,Alive,Complete response,41.93333333,43
+203,HNSCC-01-0204,Male,68,1.65,21.19375574,CA oropharynx,moderately to poorly diff.,positive,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Alive,No,53.46666667,43
+204,HNSCC-01-0205,Male,64,1.66,20.90288866,CA pyriform sinus,moderately diff.,unknown,Yes,No,No,No,No,No,2,1,IVA,Alive,Complete response,51.16666667,48
+205,HNSCC-01-0206,Female,91,1.587,17.9466991,CA hypopharynx,well diff.,unknown,Yes,No,No,No,No,No,0,0,IVA,Dead,No,11.26666667,47
+206,HNSCC-01-0207,Male,73,1.68,22.56944444,CA tonsil,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Dead,No,28.03333333,43
+207,HNSCC-01-0208,Male,76,1.69,29.48076048,CA supraglottic,poorly diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,0,0,IVA,Alive,Complete response,53.26666667,45
+208,HNSCC-01-0209,Male,45,1.79,24.96800974,CA tonsil,moderately diff.,unknown,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,1,IVA,Dead,No,13.7,45
+209,HNSCC-01-0210,Male,63,1.755,39.54513356,CA supraglottic,well diff.,positive,Yes,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,0,IVA,Alive,Complete response,46.9,43
+210,HNSCC-01-0211,Male,66,1.859,24.65362667,CA supraglottic,moderately diff.,unknown,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,No,2,1,IVA,Dead,Complete response,43.13333333,43
+211,HNSCC-01-0212,Female,58,1.77,33.19608031,CA supraglottic,moderately diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,Other Surgeries,2,1,IVA,Dead,No,20.16666667,38
+212,HNSCC-01-0213,Male,59,1.74,30.42013476,CA larynx,well diff.,unknown,No,Cisplatin weekly,Platinum-based,Yes,Cisplatin weekly,No,2,1,IVA,Alive,No,28.1,45
+213,HNSCC-01-0214,Male,50,1.817,24.86756733,CA supraglottic,moderately diff.,negative,Yes,Carbolatin weekly,Platinum-based,Yes,Carboplatin weekly,Other Surgeries,2,1,IVA,Dead,No,20.56666667,43
+214,HNSCC-01-0215,Male,59,1.89,32.86582123,CA tonsil,poorly diff.,positive,Yes,Carbolatin weekly,Platinum-based,Yes,Carbolatin weekly,No,0,0,IVA,Alive,Complete response,28.8,40
